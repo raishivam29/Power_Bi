@@ -11,3 +11,5 @@ This is human resuorce data set with the help of this I took only 2014 dataset w
 - ###New Hires Scorecard
 - ![image](https://user-images.githubusercontent.com/51836315/171457687-919e7e57-57a3-4eee-ac8e-bae88ebe6a28.png)
 
+
+
